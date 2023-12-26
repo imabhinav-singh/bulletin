@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/imabhinav-singh.github.io/bulletin/static/css/main.deb2e330.css",
-    "main.js": "/imabhinav-singh.github.io/bulletin/static/js/main.9ecbb2be.js",
-    "static/media/pin-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin/static/media/pin-svgrepo-com.ff6e734ebf3804f84758a22ed55e0c91.svg",
-    "static/media/pin-fill-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin/static/media/pin-fill-svgrepo-com.e5f301c4fd41567c9e9a263ce657e236.svg",
-    "index.html": "/imabhinav-singh.github.io/bulletin/index.html",
-    "static/media/check-circle-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin/static/media/check-circle-svgrepo-com.26073367c0eaee82c40db63369d17773.svg",
-    "static/media/xmark-solid.svg": "/imabhinav-singh.github.io/bulletin/static/media/xmark-solid.c1a55c8007326e1e35e34269ec3df653.svg",
-    "main.deb2e330.css.map": "/imabhinav-singh.github.io/bulletin/static/css/main.deb2e330.css.map",
-    "main.9ecbb2be.js.map": "/imabhinav-singh.github.io/bulletin/static/js/main.9ecbb2be.js.map"
+    "main.css": "/bulletin/static/css/main.deb2e330.css",
+    "main.js": "/bulletin/static/js/main.6d6f6718.js",
+    "static/media/pin-svgrepo-com.svg": "/bulletin/static/media/pin-svgrepo-com.ff6e734ebf3804f84758a22ed55e0c91.svg",
+    "static/media/pin-fill-svgrepo-com.svg": "/bulletin/static/media/pin-fill-svgrepo-com.e5f301c4fd41567c9e9a263ce657e236.svg",
+    "static/media/check-circle-svgrepo-com.svg": "/bulletin/static/media/check-circle-svgrepo-com.26073367c0eaee82c40db63369d17773.svg",
+    "index.html": "/bulletin/index.html",
+    "static/media/xmark-solid.svg": "/bulletin/static/media/xmark-solid.c1a55c8007326e1e35e34269ec3df653.svg",
+    "main.deb2e330.css.map": "/bulletin/static/css/main.deb2e330.css.map",
+    "main.6d6f6718.js.map": "/bulletin/static/js/main.6d6f6718.js.map"
   },
   "entrypoints": [
     "static/css/main.deb2e330.css",
-    "static/js/main.9ecbb2be.js"
+    "static/js/main.6d6f6718.js"
   ]
 }
